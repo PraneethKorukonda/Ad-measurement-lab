@@ -1,6 +1,5 @@
 # Ad Measurement & Monetization Lab
 
-![tests](https://github.com/PraneethKorukonda/ad-measurement-lab/actions/workflows/tests.yml/badge.svg)
 
 **adlift**: incrementality, brand lift, Bayesian marketing mix modeling and reserve-price auctions for video ads,
 with every method **graded against a known answer** before it is trusted.
